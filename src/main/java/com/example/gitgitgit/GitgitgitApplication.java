@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitgitgitApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(GitgitgitApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(GitgitgitApplication.class, args);
+    }
 
 }
